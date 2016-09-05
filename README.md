@@ -1,0 +1,2 @@
+# python_debug_training
+Pythonでデバッグを理解するためのサンプルコードです。
